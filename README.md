@@ -135,7 +135,8 @@ urlpatterns = [
 
 
 ## SERVER SIDE PROCESSING:
-![alt text](<Screenshot (4).png>)
+![Screenshot (6)](https://github.com/user-attachments/assets/0848409e-561d-4d27-8d6c-a60525a89349)
+
 
 ## HOMEPAGE:
 ![alt text](<Screenshot (5).png>)
